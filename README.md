@@ -1,3 +1,13 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=128&color=E3A6AE&reversal=false&textBg=false&fontColor=f2b&section=header"/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=42&pause=2000&color=f17ea1&center=true&vCenter=true&width=800&height=80&lines=Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+  </a>
+</div>
+
+<br><br>
+
 <!-- 🌸 Capa -->
 <p align="center">
   <img src="assets/capa-cortada.PNG" alt="Beatriz Braga Banner" width="100%" />
@@ -40,6 +50,8 @@
 
 <br clear="both"/>
 
+![Biis Graph](https://github-readme-activity-graph.vercel.app/graph?username=BiiaBraga&custom_title=Biia%20%20GitHub%20Activity%20Graph&bg_color=ffffff&color=f17ea1&line=f17ea1&point=f17ea1&area_color=ffbdd6&title_color=111111&area=true)
+
 
 ---
 
@@ -80,3 +92,9 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+<h6 align="center">
+  <img src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/gatopulando.webp" alt="Gato" width="50"/>Enjoyed it? Leave a ⭐ and show some ❤️
+</h6>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=128&color=E3A6AE&section=footer&textBg=false"/>
