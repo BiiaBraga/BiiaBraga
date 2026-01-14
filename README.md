@@ -31,14 +31,15 @@
 ## 🚀 Quick Stats
 
 <img
-  align="left" width="420" src="https://github-readme-stats-defcon27.vercel.app/api?username=BiiaBraga&show_icons=true&line_height=21&theme=dracula&include_all_commits=true&count_private=true"
+  align="left" width="380" src="https://github-readme-stats-defcon27.vercel.app/api?username=BiiaBraga&show_icons=true&line_height=21&theme=dracula&include_all_commits=true&count_private=true"
 />
 
 <img
-  align="right" width="420" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=BiiaBraga&langs_count=8&theme=dracula&layout=compact"
+  align="right" width="380" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=BiiaBraga&langs_count=8&theme=dracula&layout=compact"
 />
 
 <br clear="both"/>
+
 
 ---
 
