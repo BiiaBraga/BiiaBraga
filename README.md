@@ -30,7 +30,7 @@
 
 ## 🚀 Quick Stats
 <div>
-  <img width="500" height="170" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=BiiaBraga&show_icons=true&line_height=21&theme=dracula&include_all_commits=true&count_private=true" />
+  <img width="450" height="170" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=BiiaBraga&show_icons=true&line_height=21&theme=dracula&include_all_commits=true&count_private=true" />
   <img width="450" height="170" align="center" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=BiiaBraga&langs_count=16&theme=dracula&layout=compact" /> 
 </div>
 
