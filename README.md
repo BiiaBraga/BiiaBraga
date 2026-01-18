@@ -20,7 +20,7 @@
 <ul>
   <li>🎓 Finalizando Ciência da Computação </li>
   <li>🌱 Estudando Desenvolvimento Web  </li>
-  <li>💌 Email: **beatrizbragadev@gmail.com**</li>
+  <li>💌 Email: biia.braga.dev@gmail.com</li>
   <li>😄 Pronomes: ela/dela  </li>
   <li>🧠 Curiosa por tecnologia e boas práticas</li>
   <li>🌸 Transformando ideias em código</li>
