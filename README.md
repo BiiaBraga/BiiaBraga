@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 <!-- 🌸 Capa -->
 <p align="center">
@@ -27,16 +27,6 @@
 </ul>
 
 <br clear="both"/>
-
----
-
-## 🎧 Spotify
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21eygcm6hgfiz5jxuz2ldmaea&cover_image=true&theme=spotify-embed&show_offline=false&background_color=ffe5fc&interchange=false&profanity=false&bar_color=f0ccef&bar_color_cover=false&mode=light" />
-</p>
-
-
----
 
 ## 🚀 Quick Stats
 
