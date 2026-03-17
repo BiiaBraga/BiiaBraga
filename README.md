@@ -40,7 +40,7 @@
 
 <br clear="both"/>
 
-![Biis Graph](https://github-readme-activity-graph.vercel.app/graph?username=BiiaBraga&custom_title=Biia%20%20GitHub%20Activity%20Graph&bg_color=ffffff&color=f17ea1&line=f17ea1&point=f17ea1&area_color=ffbdd6&title_color=111111&area=true)
+<!-- ![Biis Graph](https://github-readme-activity-graph.vercel.app/graph?username=BiiaBraga&custom_title=Biia%20%20GitHub%20Activity%20Graph&bg_color=ffffff&color=f17ea1&line=f17ea1&point=f17ea1&area_color=ffbdd6&title_color=111111&area=true) -->
 
 
 ---
