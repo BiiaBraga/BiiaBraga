@@ -34,8 +34,10 @@
 ## 🚀 Quick Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-defcon27.vercel.app/api?username=BiiaBraga&show_icons=true&line_height=21&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=BiiaBraga&langs_count=8&theme=dracula&layout=compact"/>
+   <img src="https://github-readme-stats-one.vercel.app/api?username=BiiaBraga&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&count_private=true" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiiaBraga&theme=dracula&locale=pt-br" />
+  
 </div>
 
 <!-- ![Biis Graph](https://github-readme-activity-graph.vercel.app/graph?username=BiiaBraga&custom_title=Biia%20%20GitHub%20Activity%20Graph&bg_color=ffffff&color=f17ea1&line=f17ea1&point=f17ea1&area_color=ffbdd6&title_color=111111&area=true) -->
