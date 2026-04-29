@@ -42,22 +42,17 @@
 
 <!-- ![Biis Graph](https://github-readme-activity-graph.vercel.app/graph?username=BiiaBraga&custom_title=Biia%20%20GitHub%20Activity%20Graph&bg_color=ffffff&color=f17ea1&line=f17ea1&point=f17ea1&area_color=ffbdd6&title_color=111111&area=true) -->
 
-
 ---
 
 ## 💻 Languages & Tools
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <!-- <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+<b>Desenvolvimento BackEnd ⚙️</b><br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,typescript,javascript,java,python,flask,c,cpp)](https://skillicons.dev)
+
+<b>Desenvolvimento FrontEnd 🎨</b><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,react)](https://skillicons.dev)
+
+<b>Ferramentas 🔧</b><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,ubuntu,notion,windows,powershell,figma)](https://skillicons.dev)
 
 ---
 
